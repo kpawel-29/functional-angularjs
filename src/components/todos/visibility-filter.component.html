@@ -1,0 +1,13 @@
+<md-subheader class="md-primary">
+    <div layout="row nowrap" layout-align="center center">
+        <md-button ng-disabled="$ctrl.visibilityFilters === 'SHOW_ALL'"
+                   ng-click="$ctrl.setVisibilityFilter('SHOW_ALL')">show all
+        </md-button>
+        <md-button ng-disabled="$ctrl.visibilityFilters === 'SHOW_ACTIVE'"
+                   ng-click="$ctrl.setVisibilityFilter('SHOW_ACTIVE')">show active
+        </md-button>
+        <md-button ng-disabled="$ctrl.visibilityFilters === 'SHOW_COMPLETED'"
+                   ng-click="$ctrl.setVisibilityFilter('SHOW_COMPLETED')">show completed
+        </md-button>
+    </div>
+</md-subheader>
