@@ -21,12 +21,15 @@ If you have enough:
   
 ## How do i use it
 `npm install` - install all packages
+
 `npm run test` - run test
+
 `npm run test:watch` - run test in watch mode
+
 `npm run build` - build production bundle
+
 `npm run watch` - run develop mode server
 
 ## More info
 Project is connected with [redux devtool extension](http://extension.remotedev.io/)
-
 For connection angular with redux used [ng-redux](https://github.com/angular-redux/ng-redux)
