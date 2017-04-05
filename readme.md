@@ -33,3 +33,9 @@ If you have enough:
 ## More info
 Project is connected with [redux devtool extension](http://extension.remotedev.io/)
 For connection angular with redux used [ng-redux](https://github.com/angular-redux/ng-redux)
+
+## TODO
+ - finish sample todo app
+ - handle async actions
+ - handle testing angular components in jest
+ - setup tslint
