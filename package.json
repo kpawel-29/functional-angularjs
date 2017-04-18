@@ -50,7 +50,7 @@
   },
   "jest": {
     "transform": {
-      ".(ts|tsx)": "<rootDir>/fileTransformer.js"
+      ".(ts|tsx)": "<rootDir>/jest.config.js"
     },
     "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$",
     "moduleFileExtensions": [
