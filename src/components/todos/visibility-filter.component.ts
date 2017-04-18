@@ -19,6 +19,6 @@ export class VisibilityFilterController implements angular.IController {
 }
 
 export const VisibilityFilterComponent: angular.IComponentOptions = {
-    template: require('./visibility-filter.component.html'),
-    controller: VisibilityFilterController
+    controller: VisibilityFilterController,
+    template: require('./visibility-filter.component.html')
 };

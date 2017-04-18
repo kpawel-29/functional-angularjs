@@ -62,6 +62,6 @@ export class TodosController implements angular.IController {
 }
 
 export const TodosCompoenent: angular.IComponentOptions = {
-    template: require('./todos.component.html'),
-    controller: TodosController
+    controller: TodosController,
+    template: require('./todos.component.html')
 };

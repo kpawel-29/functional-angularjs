@@ -39,3 +39,4 @@ For connection angular with redux used [ng-redux](https://github.com/angular-red
  - handle async actions
  - handle testing angular components in jest
  - setup tslint
+ - http://stackoverflow.com/questions/39483893/how-can-i-use-my-webpacks-html-loader-imports-in-jest-tests#
