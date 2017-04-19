@@ -8,7 +8,7 @@ Used technologies :
  - Redux
  - Typescript 2.x
  - Webpack 2.x
- - Just
+ - Jest
  - SCSS
  
 ## Why Do I Need This?
